@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikoloz Natenadze</h1>
-<h3 align="center">A font and back developer from Georgia</h3>
+<h3 align="center">A fontend and backend developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikanatenaze&label=Profile%20views&color=0e75b6&style=flat" alt="nikanatenaze" /> </p>
 <p align="left">
